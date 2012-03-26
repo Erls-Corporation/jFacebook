@@ -1,0 +1,17 @@
+.well, .form-actions, .thumbnail{
+    box-shadow: none;
+    background-color: #EDEFF4;
+}
+.btn{
+    border-radius: 0;
+}
+.btn-primary{
+    background-color:#5B74A8;
+    background-image:none;
+    border-color:#0044cc #0044cc #002a80;
+    border-color:rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+    filter:progid:DXImageTransform.Microsoft.gradient(enabled = false);
+}
+.btn-primary:hover,.btn-primary:active,.btn-primary.active,.btn-primary.disabled,.btn-primary[disabled]{
+    background-color:#3B5998;
+}
